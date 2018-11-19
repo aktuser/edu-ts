@@ -1,2 +1,2 @@
 # edu-ts
-Type script first experience
+My first Type script experience
